@@ -1,0 +1,5 @@
+gentoo-build/variables.sh
+packer_cache/
+*.pem
+*.box
+./gentoo-build.sh
